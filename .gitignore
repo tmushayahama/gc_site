@@ -1,0 +1,10 @@
+# Published build output lives in dist/ and IS committed on purpose.
+node_modules
+*.log
+.DS_Store
+Thumbs.db
+.env
+.env.local
+
+# Bundle-visualizer artifacts from the source build
+dist/stats-*.html
