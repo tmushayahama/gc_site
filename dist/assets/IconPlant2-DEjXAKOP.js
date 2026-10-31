@@ -1,0 +1,1 @@
+import{c as a}from"./index-BK1jiyP9.js";const t=[["path",{d:"M2 9a10 10 0 1 0 20 0",key:"svg-0"}],["path",{d:"M12 19a10 10 0 0 1 10 -10",key:"svg-1"}],["path",{d:"M2 9a10 10 0 0 1 10 10",key:"svg-2"}],["path",{d:"M12 4a9.7 9.7 0 0 1 2.99 7.5",key:"svg-3"}],["path",{d:"M9.01 11.5a9.7 9.7 0 0 1 2.99 -7.5",key:"svg-4"}]],o=a("outline","plant-2","Plant2",t);export{o as I};
