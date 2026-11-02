@@ -1,0 +1,1 @@
+import{c as e}from"./index-DAeTcm-m.js";const a=[["path",{d:"M7 20l10 0",key:"svg-0"}],["path",{d:"M6 6l6 -1l6 1",key:"svg-1"}],["path",{d:"M12 3l0 17",key:"svg-2"}],["path",{d:"M9 12l-3 -6l-3 6a3 3 0 0 0 6 0",key:"svg-3"}],["path",{d:"M21 12l-3 -6l-3 6a3 3 0 0 0 6 0",key:"svg-4"}]],l=e("outline","scale","Scale",a);export{l as I};

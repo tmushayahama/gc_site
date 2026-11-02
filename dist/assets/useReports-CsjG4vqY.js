@@ -1,1 +1,0 @@
-import{r}from"./react-DLmdmE6Z.js";import{a9 as n,V as a}from"./index-BK1jiyP9.js";function p(e){const t=n();a(o=>o.reports.byCheck);const s=e.join(",");r.useEffect(()=>{},[t,s])}function i(e=6e4){const[t,s]=r.useState(()=>new Date);return r.useEffect(()=>{const o=window.setInterval(()=>s(new Date),e);return()=>window.clearInterval(o)},[e]),t}export{p as a,i as u};
